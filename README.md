@@ -10,7 +10,6 @@ To get started with Project Platform, follow these installation steps:
    ```bash
    git clone https://github.com/GDGAlgiers/Project-Platform-Frontend.git
 
-
 2. Install the required dependencies:
     ```bash
    cd Project-Platform-Frontend
@@ -47,5 +46,5 @@ We encourage contributions from the community to make our Project Platform even 
 **Contribute to documentation:** Improve the README or other project documentation to help others use the Project Platform.
 
 
-
+<font color="blue">*Enjoy using Project Platform Frontend for efficient project management and collaboration! We look forward to your contributions to make this project even more valuable.*</font>
 
