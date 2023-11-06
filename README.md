@@ -22,29 +22,38 @@ To get started with Project Platform, follow these installation steps:
 ## Usage
 Project Platform offers a variety of features to streamline project management. Here are some usage examples:
 
-**Dashboard:** After logging in, you'll be greeted with a personalized dashboard where you can view an overview of all your projects, their statuses, and your tasks.
+### Dashboard:### 
+After logging in, you'll be greeted with a personalized dashboard where you can view an overview of all your projects, their statuses, and your tasks.
 
-**Project Details:** Click on a specific project to access detailed information, including project milestones, team members, and their roles.
+### Project Details:### 
+Click on a specific project to access detailed information, including project milestones, team members, and their roles.
 
-**Task Management:** As a team member, you can mark your tasks as complete, update task statuses, and add comments to keep your team informed.
+### Task Management:### 
+As a team member, you can mark your tasks as complete, update task statuses, and add comments to keep your team informed.
 
-**Collaboration:** Use the feedback feature to communicate with your team members in real-time.
+### Collaboration:### 
+Use the feedback feature to communicate with your team members in real-time.
 
-**Project Reports:** Generate project reports and track your project's progress over time.
+### Project Reports:### 
+Generate project reports and track your project's progress over time.
 
-**Notifications:** Stay updated with notifications for important projects or new assigned tasks.
+### Notifications:### 
+Stay updated with notifications for important projects or new assigned tasks.
 
 
 
-## Contributing
+## Contributing ##
 We encourage contributions from the community to make our Project Platform even better. If you'd like to contribute, follow these guidelines:
 
-**Report issues:** If you find a bug or have a feature request, please open an issue on GitHub.
+### Report issues:### 
+If you find a bug or have a feature request, please open an issue on GitHub.
 
-**Submit pull requests:** If you'd like to contribute code, feel free to fork the repository, make your changes, and submit a pull request.
+### Submit pull requests:### 
+If you'd like to contribute code, feel free to fork the repository, make your changes, and submit a pull request.
 
-**Contribute to documentation:** Improve the README or other project documentation to help others use the Project Platform.
+### Contribute to documentation:### 
+Improve the README or other project documentation to help others use the Project Platform.
 
 
-<font color="blue">*Enjoy using Project Platform Frontend for efficient project management and collaboration! We look forward to your contributions to make this project even more valuable.*</font>
+*Enjoy using Project Platform Frontend for efficient project management and collaboration! We look forward to your contributions to make this project even more valuable.*
 
