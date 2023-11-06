@@ -13,13 +13,13 @@ To get started with Project Platform, follow these installation steps:
 
 2. Install the required dependencies:
   ```bash
-    cd Project-Platform-Frontend
-    npm install
+  cd Project-Platform-Frontend
+  npm install
    
 
 3. Start the development server:
    ```bash
-    npm run dev
+   npm run dev
    
 
 
